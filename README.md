@@ -1,6 +1,6 @@
 # i_am_rich_app_1
 
-A new Flutter project where i am developing by watching youtube and chatgpt and online course
+A new Flutter project where i am developing by watching online course
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+here are some screenshots u can check ![image](https://github.com/user-attachments/assets/363c5f67-222b-468f-a91b-4c7dfb79419c)
